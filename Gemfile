@@ -6,7 +6,7 @@ gem 'rails', '4.0.3'
 # Use sqlite3 as the database for Active Record
 gem 'mysql2'
 
-
+gem 'spree_bootstrap_frontend', github: '200Creative/spree_bootstrap_frontend', branch: '2-2-stable'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
