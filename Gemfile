@@ -7,6 +7,10 @@ gem 'rails', '4.0.3'
 gem 'mysql2'
 
 gem 'spree_bootstrap_frontend', github: '200Creative/spree_bootstrap_frontend', branch: '2-2-stable'
+<<<<<<< HEAD
+=======
+
+>>>>>>> bb0f80407b8073596aeb8d0f2faaf49f808c87e4
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
@@ -48,6 +52,7 @@ end
 # Use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.1.2'
 
+gem 'bootswatch-rails'
 # Use unicorn as the app server
 # gem 'unicorn'
 
